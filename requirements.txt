@@ -16,6 +16,8 @@ shapely
 trimesh==4.0.4
 open3d==0.18.0
 gpytoolbox
+viser
+transformers
 
 lpips
 pytorch-msssim
